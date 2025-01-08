@@ -1,2 +1,0 @@
-# Python
-MY Python Scripts 
